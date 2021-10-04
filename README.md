@@ -11,3 +11,6 @@ Program | Degree | Duration
 -| - | -
 Urban Engineering | Bachelor | 4 years
 Geography | M.Sc. | 2 years
+
+
+
