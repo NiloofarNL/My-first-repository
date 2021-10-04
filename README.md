@@ -12,10 +12,6 @@ Program | Degree | Duration
 Urban Engineering | Bachelor | 4 years
 Geography | M.Sc. | 2 years
 
-title: "Niloofar-activity-1"
-output: html_document
----
-<style> body {text-align: justify} </style> <!-- Justify text. -->  
 
 # ***Research Interest***
 ***
@@ -45,10 +41,6 @@ Michelangelo | The Last Judgement
 Vincent Van Gogh | Sunflower  
 Rembrandt | The Night Watch  
 
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 ## R Markdown
 
