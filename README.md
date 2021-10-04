@@ -7,10 +7,10 @@ Learning how to create a repository
 
 I am working on using R and Github as the data collecting methods as a graduate student. Before this program I was working on urban planning issues when I was studying for a bachelor degree. Here is a brief table of my academic degrees.
 
-Program | Degree | Duration
--| - | -
-Urban Engineering | Bachelor | 4 years
-Geography | M.Sc. | 2 years
+Program | Degree | Duration | Institution
+-| - | - | -
+Urban Engineering | Bachelor | 4 years | ?
+Geography | M.Sc. | 2 years | McMaster University
 
 
 
