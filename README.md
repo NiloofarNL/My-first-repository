@@ -9,7 +9,7 @@ I am working on using R and Github as the data collecting methods as a graduate 
 
 Program | Degree | Duration | Institution
 -| - | - | -
-Urban Engineering | Bachelor | 4 years | ?
+Urban Engineering | Bachelor | 4 years | Khayyam University
 Geography | M.Sc. | 2 years | McMaster University
 
 
