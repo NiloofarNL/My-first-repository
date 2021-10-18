@@ -1,0 +1,55 @@
+---
+title: "Niloofa Nalaee_Activity_4"
+
+
+
+output: html_document
+---
+# **Activity to be added to your course GitHub repository.**
+
+## **Abstract**
+
+What I will be share in this activity is obtained from my paper as an extract of my bachelor dissertation in 2018. The aim of this project is to show the key role of urban planners in reducing the impact of buildings in Mashhad as a case study, especially high-rise buildings.  In this research, which is of analytical and experimental type, by using a process to assess the traffic effects as a pilot study, the traffic quality factor of networks and service level is provided which according to this, the traffic effects caused by the High-rise Buildings are determined by the related indicators. The results indicated that the amount of traffic jam of case studies and their surrounding land-uses are not corresponding with the possible capacity of road networks around them. 
+
+## **Project Data Analysis**
+**1.List the data that you expect to use, collect or create in your project. Identify if you are generating or collecting the data and if you are using existing datasets?** 
+
+### Data based on theory :
+Definitions, theoretical foundations and views and research background are presented by using existing references.
+
+### Data of research area:
+All the information in order to introduce case study and its surronding are extracted from existing databases.
+
+### Data of research findings: 
+These data contain the criteria based on them this research is conducted and maps of showing the impact of traffic is presented.Then the information of service level is generated through field studies.
+
+**2.Are there legal or ethicial restrictions that you will need to address?**
+Totally the information of case study and spatial information of their surronding can be accessed through public datasets of municipality. so it has not ant ethical or legal restrictions.
+
+**3.Go through the Quick Hits for Data Management and identify possible strategies to build and protect the value of your data.**
+
+**Keep raw data raw**
+
+I have made another files for maintaining the raw data such as : spatial attributes, references and text.So in this way I can keep them without any change.
+
+**Backup**
+Along with generating and collecting the data, I often save them in different direction in my laptop. In addition to this I used OneDrive as an external stor in case a problem will happen to my laptop.
+**File Format**
+There different kinds of formats which I used in my projects. Most of them are .shp, Pdf, and .doc
+
+**File Naming**
+All files have a common code in which numbers are the first then the subject will come.
+
+**Standards/Documentation**
+
+**4.Where will you keep raw data and how will you back it up?**
+As I mentioned before, I keep raw data in numerous files and back them up through OneDrive as a safe store for maintaining the data
+**5.What file formats do you anticipate your data will be in? Are the formats open or can they be converted to open formats?**
+Again, as before is mentioned, File formats such as: .shp which contain spatial data can be converted to open formats like .jpg and so on.
+**6.Create a File naming convention for your project data**
+As before I would like to use the number of each topic at first and then I will mention its sub-topic
+
+**7.What standards are relevant to your project? List any existing standards or best practices in use in your field or in your lab? This could include instrument procedures or file management standards. What standards might you want to create to help you manage your data?**
+
+**8.List possible strategies you might use to document your data throughout your project**
+
