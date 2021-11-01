@@ -309,10 +309,13 @@ improve the traffic condition using various analytical methods.
 
 # **Credit author statement**
 
-Niloofar Nalaee: Methodology, Software, Writing - Original Draft.
-Mandana Borhanipur: Formal analysis, Investigation, Writing - Review &
-Editing. Narges Fatemi: Project administration, Supervision. Masoud
-Ebadi: Resources
+Niloofar Nalaee: Methodology, Software, Writing - Original Draft.  
+
+Mandana Borhanipur: Formal analysis, Investigation, Writing - Review & Editing.  
+
+Narges Fatemi: Project administration, Supervision.  
+
+Masoud Ebadi: Resources
 
 # **Acknowledgments**
 
