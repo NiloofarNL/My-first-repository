@@ -11,9 +11,12 @@ Ebadi(4)
 
 # **Affiliations**
 
-1 Faculty of Architecture and Urbanism, Khayyam University, Iran 2
-Department of Urban Planning and Design, Islamic Azad University, Iran
-3Department of Urban Planning and Design, Islamic Azad University, Iran
+1 Faculty of Architecture and Urbanism, Khayyam University, Iran  
+
+2 Department of Urban Planning and Design, Islamic Azad University, Iran  
+
+3Department of Urban Planning and Design, Islamic Azad University, Iran  
+
 4 Department of Geography and Urban Planning, Payam Noor, Iran
 
 # **Corresponding author’s email address**
@@ -118,7 +121,7 @@ COI: ICSP01_304</code></pre></td>
 
 # **Value of the data**
 
-*Why are these data useful? *
+***Why are these data useful?***
 
 In this modern world, the high-rise building-related matters seem to be
 significant as a fundamental phenomenon. This topic has been discussed
@@ -131,7 +134,7 @@ planning, gaining awareness of related issues such as urban traffic
 problems, considering comprehensive decisions about high-rises and
 assessment of their traffic effects.
 
-*Who can benefit from these data?*
+***Who can benefit from these data?***
 
 If the planning and the location process of high-rise buildings are
 commensurate with the use of the transportation network and urban
@@ -140,8 +143,8 @@ urban traffic will be mitigated and will be considered as a step towards
 a sustainable environment and integrated land use and transportation
 planning.
 
-*How can these data be used/reused for further insights and/or
-development of experiments?*
+***How can these data be used/reused for further insights and/or
+development of experiments?***
 
 According to the data and in accordance with the macro and micro
 objectives of the research, the following strategies have been
@@ -156,7 +159,7 @@ used in further works.
 
 # **Data Description**
 
-## **1.Raw data **
+1.Raw data 
 
 <table>
 <colgroup>
@@ -245,7 +248,7 @@ used in further works.
 </tbody>
 </table>
 
-## **2.Secondary data **
+2.Secondary data 
 
 <table>
 <colgroup>
