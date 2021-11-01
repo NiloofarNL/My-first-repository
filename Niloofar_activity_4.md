@@ -307,14 +307,14 @@ service level of the roads will be compared with the Standard service
 level. Finally, some strategies and policies will be presented to
 improve the traffic condition using various analytical methods.
 
-# **CRediT author statement**
+# **Credit author statement**
 
 Niloofar Nalaee: Methodology, Software, Writing - Original Draft.
 Mandana Borhanipur: Formal analysis, Investigation, Writing - Review &
 Editing. Narges Fatemi: Project administration, Supervision. Masoud
 Ebadi: Resources
 
-\#**Acknowledgments**
+# **Acknowledgments**
 
 This article is derived from the undergraduate dissertation of Niloufar
 Nalaei and Mandana Borhanipour. In the end, we particularly thank
